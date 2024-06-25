@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 
 
-![piano](https://github.com/Nada-webdev/Piano-Project-tailwind-css/assets/140740775/eb915119-f2e4-46ec-bdcf-40bc42eae2ee)
 
+
+![piano](https://github.com/Nada-webdev/Tailwind-Piano-Project/assets/140740775/3a51eaef-ba2c-4789-b86a-618d3e444bd5)
 
